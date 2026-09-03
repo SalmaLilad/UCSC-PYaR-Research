@@ -29,8 +29,8 @@ Derived kinematic maps ($\xi$ vs. $\eta$ spatial coordinates in kpc) showing vel
 *Elevated dispersion (~100–140+ km/s)* |
 
 
+> **Kinematic Analysis:** Asymptotic Giant Branch stars (`plots/AGB_dispersion_map.png`) and RGB stars demonstrate significant kinematic heating compared to Main Sequence populations, reflecting Andromeda's merger and satellite accretion history.
+
 #  AI Assistance Disclosure
 
 This README was prepared with the assistance of an AI agent to enhance structure, clarity, and technical documentation quality. All project code, architecture, and experimental results were implemented, and verified by me without any AI use. I provided the outline, structure and content for this ReadME and the AI assistant was used exclusively for documentation, drafting, formatting, and summarization purposes.
-
-> **Kinematic Analysis:** Asymptotic Giant Branch stars (`plots/AGB_dispersion_map.png`) and RGB stars demonstrate significant kinematic heating compared to Main Sequence populations, reflecting Andromeda's merger and satellite accretion history.
