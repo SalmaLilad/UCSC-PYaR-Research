@@ -25,6 +25,12 @@ Derived kinematic maps ($\xi$ vs. $\eta$ spatial coordinates in kpc) showing vel
 | Main Sequence (Young / Dynamically Cold) | Red Giant Branch (Older / Dynamically Heated) |
 | :---: | :---: |
 | <img src="plots/MS_dispersion_map.png" width="100%"> | <img src="plots/RGB_dispersion_map.png" width="100%"> |
-| *Low dispersion (~40–60 km/s)* | *Elevated dispersion (~100–140+ km/s)* |
+| *Low dispersion (~40–60 km/s)* | 
+*Elevated dispersion (~100–140+ km/s)* |
+
+
+#  AI Assistance Disclosure
+
+This README was prepared with the assistance of an AI agent to enhance structure, clarity, and technical documentation quality. All project code, architecture, and experimental results were implemented, and verified by me without any AI use. I provided the outline, structure and content for this ReadME and the AI assistant was used exclusively for documentation, drafting, formatting, and summarization purposes.
 
 > **Kinematic Analysis:** Asymptotic Giant Branch stars (`plots/AGB_dispersion_map.png`) and RGB stars demonstrate significant kinematic heating compared to Main Sequence populations, reflecting Andromeda's merger and satellite accretion history.
